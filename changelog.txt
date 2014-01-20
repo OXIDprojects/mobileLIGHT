@@ -1,0 +1,10 @@
+--------------------------
+OXID eshop - Mobile Theme - LIGHT Version
+--------------------------
+
+Copyright: CSS - Ralf Pommer
+E-Mail   : support@ralf-pommer.de
+---------------------------
+
+[2014-01-20] - 1.0.0
+- Release
